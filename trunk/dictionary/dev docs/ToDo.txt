@@ -1,0 +1,1 @@
+Dictionary Update.vi is in latest source code from CVS. Package v1.1-2 has Dictionary Update (poly).vi - this creates missing VI. Need to review.
