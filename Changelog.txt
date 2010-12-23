@@ -1,0 +1,28 @@
+-= oglib_array-2.3-1.ogp =-
+
+
+Changes from 2.2-1 --> 2.3-1
+--------------------------------
+2004-11-11 
+[FIX] Package now overwrites existing files in target location
+
+Changes from 2.1-1 --> 2.2-1
+--------------------------------
+2004-03-28 
+[MOD] "Filter 1D Array.vi" - Optimized by calling Conditional
+      Auto-indexing Tunnel.
+[MOD] "Conditional Auto-Indexing Tunnel.vi" added more polyVI
+      members: I16, I8, U16, U32, U8, CXT, CDB, CSG, EXT, SGL,
+      Bool, CTL-REF, GEN-REF, VI-REF, GObj-REF
+
+
+Changes from 2.0-1 --> 2.1-1
+--------------------------------
+2004-03-11 
+[FIX] "Conditional Auto-Indexing Tunnel.vi" - added "To U32"
+      conversion to allow arrays longer than 65k.
+
+2003-10-25 
+[MOD] Changed "Sort 2D Array" algorithm to bundled-pointer
+      native sort.  It fixes a bug in "Sort 2D Array (String)"
+      and is also faster.
