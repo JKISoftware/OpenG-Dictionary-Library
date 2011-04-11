@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.3" Created_Date="2010-12-23 21:18:44" Modified_Date="2011-01-23 19:02:10" Creator="Jonathon Green" Comments="" ID="c226eb30952c8bf34d82596a71c9e77b">
+<VI_Package_Builder_Settings Version="0.3" Created_Date="2010-12-23 21:18:44" Modified_Date="2011-04-10 17:32:01" Creator="Jonathon Green" Comments="" ID="836d6da41a0aed5418e8de3f839e43e5">
   <Library_General_Settings>
     <Package_File_Name>oglib_dictionary</Package_File_Name>
-    <Library_Version>4.0.0.2</Library_Version>
+    <Library_Version>4.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
