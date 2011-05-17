@@ -1,6 +1,6 @@
-OpenG Dictionary
+OpenG Dictionary Library
 
-Copyright (c) 2005 Jim Kring; 2010 Jonathon Green
+Copyright (c) 2005 Jim Kring; 2010-2011 Jonathon Green
 
 All rights reserved.
 
